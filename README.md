@@ -137,10 +137,10 @@ GET /api/v1/auth/me/
 
 - [x] Django Project Setup
 - [x] PostgreSQL Configuration
-- [x] DRF Configuration
-- [x] Movie APIs
-- [x] Search & Filtering
-- [x] JWT Authentication
+- [ ] DRF Configuration
+- [ ] Movie APIs
+- [ ] Search & Filtering
+- [ ] JWT Authentication
 - [ ] Series APIs
 - [ ] Favorites
 - [ ] Ratings
