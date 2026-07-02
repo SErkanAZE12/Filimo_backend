@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "اسلاید اول",
+    "description": "توضیحات کامل برای اسلاید اول",
+    "image": "/img/2nsy4_desktop_1_v1.jpeg",
+    "filmLanguage": "farsi",
+    "ageRating": "13+",
+    "country": "iran",
+    "genre": "drama",
+    "productionYear": 2024,
+    "category": "movie"
+  },
+  {
+    "id": 2,
+    "title": "اسلاید دوم",
+    "description": "توضیحات کامل برای اسلاید دوم",
+    "image": "/img/fwv8y_desktop_1_v1.jpeg",
+    "filmLanguage":"subtitle",
+    "ageRating":"15+",
+    "country": "usa",
+    "genre": "action",
+    "productionYear": 2023,
+    "category": "series"
+  },
+  {
+    "id": 3,
+    "title": "اسلاید سوم",
+    "description": "توضیحات کامل برای اسلاید سوم",
+    "image": "/img/kmgp4_desktop_1_v1.webp",
+    "filmLanguage": "english",
+    "ageRating": "18+",
+    "country": "uk",
+    "genre": "crime",
+    "productionYear": 2022,
+    "category": "movie"
+  },
+  {
+    "id": 4,
+    "title": "اسلاید چهارم",
+    "description": "توضیحات کامل برای اسلاید چهارم",
+    "image": "/img/173459_desktop_1_v1.webp",
+    "filmLanguage": "original",
+    "ageRating": "all",
+    "country": "france",
+    "genre": "comedy",
+    "productionYear": 2021,
+    "category": "series"
+  },
+  {
+    "id": 5,
+    "title": "اسلاید پنجم",
+    "description": "توضیحات کامل برای اسلاید پنجم",
+    "image": "/img/fm0pg_desktop_1_v1.webp",
+    "filmLanguage": "multi",
+    "ageRating": "12+",
+    "country": "korea",
+    "genre": "romance",
+    "productionYear": 2024,
+    "category": "movie"
+  }
+]
